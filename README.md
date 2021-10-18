@@ -30,4 +30,4 @@
 </p>
 <p align="center"><img align="center" src="https://metrics.lecoq.io/lacinamichal"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lacinamichal&show_icons=true&locale=en&layout=compact" alt="lacinamichal" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lacinamichal&show_icons=true&locale=en" alt="lacinamichal" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lacinamichal&show_icons=true&locale=en" alt="lacinamichal" /></p>
